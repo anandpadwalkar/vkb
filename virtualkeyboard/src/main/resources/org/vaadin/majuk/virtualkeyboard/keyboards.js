@@ -17,6 +17,8 @@ var keyboard_human_names =
 }
 
 /* Keyboards from https://github.com/Mottie/Keyboard */
+
+/*a change*/
 var keyboard_names = [
 	"Albanian (qwerty):albanian-qwerty",
 	"Albanian (qwertz):albanian-qwertz",

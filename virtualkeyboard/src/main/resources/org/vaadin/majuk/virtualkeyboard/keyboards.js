@@ -20,6 +20,8 @@ var keyboard_human_names =
 
 /*a change*/
 var keyboard_names = [
+                      randomiseAlphabetic :true
+                      rnadomiseAll : true
 	"Albanian (qwerty):albanian-qwerty",
 	"Albanian (qwertz):albanian-qwertz",
 	"Arabic (azerty):arabic-azerty",

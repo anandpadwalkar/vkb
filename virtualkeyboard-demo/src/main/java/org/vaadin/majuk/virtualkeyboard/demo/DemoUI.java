@@ -2,6 +2,7 @@ package org.vaadin.majuk.virtualkeyboard.demo;
 
 import org.vaadin.majuk.virtualkeyboard.VirtualKeyboard;
 
+import com.google.gwt.i18n.shared.FirstStrongDirectionEstimator;
 import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.Title;
 import com.vaadin.server.VaadinRequest;
